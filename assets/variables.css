@@ -1,0 +1,21 @@
+:root {
+    --neutral_0: #FFFFFF;
+    --neutral_100: #FBFBFB;
+    --neutral_200: #F3F3F3;
+    --neutral_300: #ECECEC;
+    --neutral_400: #BFBFBF;
+    --neutral_500: #8C8C8C;
+    --neutral_600: #6C6C6C;
+    --neutral_700: #393939;
+    --neutral_800: #1C1C1C;
+    --neutral_900: #141414;
+    --primary_0: #FFF4F4;
+    --primary_100: #FFCECE;
+    --primary_200: #FCA9A9;
+    --primary_300: #F25959;
+    --primary_400: #D51010;
+    --primary_500: #A60C0C;
+    --primary_600: #760909;
+    --primary_400-500: #A60C0C;
+    --base_black: #000000;
+}
